@@ -38,7 +38,7 @@ Get the email of a given nickname
 getnmail nickname
 </pre>
 <br/>
-Get the email of a partially known the nickname
+**Get the email of a partially known nickname:**
 <br/>
 for cases where you don't know the start
 <pre>
