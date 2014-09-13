@@ -12,13 +12,16 @@ Currently version 3 is the latest version and I can't possibly agree with someth
 that I don't know/understand and most importantly doesn't exist. So any reference to later version is a no go at this point. If the current license is a trouble for you, feel free to contact me, maybe we can find something suitable for everyone.
 
 **Why do I need a tool like this ?**
+
 Nicknames are awesome, usually short and easy to remember, but emails, depends on a lot of factors.
 I don't want to remember domains of my friends and I don't want to open my contact book for it.
-<br>
+
+
 **Why a command line tool though ?**
+
 Because It's where I need it ? Think of authors on programming projects,
 manual gpg signing and so on. It just gets painful.
-<br/>
+
 
 ##documentation - guidelines + [todo]
 
