@@ -36,7 +36,7 @@ Register a nickname/user with multiple emails
 getnmail --register "nickname" --email "address@domain.tld" "address2@domain.tld" "address3@domain.tld"
 </pre>
 <br/>
-Get the email of a given nickname 
+Get the email of a given nickname
 <pre>
 getnmail nickname
 </pre>
